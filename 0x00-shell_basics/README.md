@@ -1,1 +1,2 @@
-Working Directory
+#!/bin/bash
+pwd
