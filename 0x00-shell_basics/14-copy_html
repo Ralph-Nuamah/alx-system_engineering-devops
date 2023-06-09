@@ -1,6 +1,2 @@
 #!/bin/bash
-parent_dir="$(dirname "$PWD")"
-find . -name '*.html' -newer
-"$parent_dir" -exec cp -u {}
-"$parent_dir" -exec cp -u {}
-"$parent_dir" \;
+cp -u *.html ..
