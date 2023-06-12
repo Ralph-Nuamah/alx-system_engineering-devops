@@ -1,2 +1,2 @@
-echo- Displays a text 
--wc -print newline
+#!/bin/bash
+echo "\"(Ôo)'"
